@@ -1,0 +1,13 @@
+@import 'vars';
+
+body {
+  h2.parrotlet {
+    color: $blue;
+  }
+  h2.linnie {
+    color: $green;
+  }
+  h2.lovebird {
+    color: $red;
+  }
+}
